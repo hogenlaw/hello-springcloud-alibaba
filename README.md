@@ -137,3 +137,7 @@ maven groupid 由 `org.springframework.cloud` 变更为 `com.alibaba.cloud`
 ### 本项目笔记地址：
 
 http://note.youdao.com/noteshare?id=e21e0cf93f227b834e99600374ed6a75
+
+http://note.youdao.com/noteshare?id=e3b180af27a35b0a37dd0767f1096402
+
+http://note.youdao.com/noteshare?id=46281edf220b0591f34b1ddb1e633024
